@@ -1,10 +1,6 @@
 from django.contrib import admin
 from .models import Choice, Question
 
-# czp
-# czp_first@163.com
-# cao19950828.
-
 
 # Register your models here.
 class ChoiceInline(admin.TabularInline):
